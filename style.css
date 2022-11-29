@@ -37,7 +37,7 @@ body {
   background-color: var(--card-background);
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  border-radius: 15px;
+  border-radius: 14px;
   overflow: hidden;
   margin: 2rem;
 }
